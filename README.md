@@ -1,2 +1,2 @@
 # hackerman.github.io
-this project is created using HTML, CSS and JavaScript. to practice and improve JavaScript concept skills like basic js, DOM, async/await, etc. i also use littlebit Bootstrap as a frontend development 
+this project is created using HTML, CSS and JavaScript. to practice and improve JavaScript concept skills like basic js, DOM, async/await, etc. i also use Bootstrap as a frontend development 
